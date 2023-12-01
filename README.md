@@ -1,6 +1,6 @@
 # Image-Caption-Generation-with-Neural-Networks
 
-This repository contains a script for training an image captioning model using a combination of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). The model is designed to generate descriptive captions for images.
+This repository contains a script for training an image captioning model using a combination of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNN-LSTMs). The model is designed to generate descriptive captions for images.
 
 ## Overview
 
