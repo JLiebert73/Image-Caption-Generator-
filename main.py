@@ -181,4 +181,3 @@ def generate_caption(image_name):
     prediction = predict_caption(model, image, tokenizer, max_length)
     print(prediction)
 
-generate_caption('3425418735_2f454486a5.jpg')
